@@ -1,5 +1,5 @@
 # About me
 
 
-* DEV
+* DEVOPS
 * Boardgames fan!
